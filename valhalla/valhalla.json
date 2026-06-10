@@ -1,0 +1,15 @@
+{
+  "mjolnir": {
+    "tile_extract": "/data/valhalla_tiles.tar",
+    "admin": "/data/admin.sqlite"
+  },
+  "additional_data": {
+    "elevation": "/data/elevation"
+  },
+  "service_limits": {
+    "auto": {
+      "max_distance": 5000000,
+      "max_locations": 20
+    }
+  }
+}
